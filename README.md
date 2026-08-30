@@ -484,4 +484,4 @@ while (alive) {
 
 ⭐ Explore my repositories • Build something amazing • Keep learning
 
-<br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,75:075985,100:0EA5E9&height=170&section=footer"/> </div> ```
+<br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,75:075985,100:0EA5E9&height=170&section=footer"/> </div>
