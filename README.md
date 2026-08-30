@@ -48,11 +48,7 @@
 <img src="https://github.com/sanjairam01.png" width="160" alt="Sanjai Ram B"/>
 
 <br><br>
-
-# 👨‍💻
-
 ### AI EXPLORER
-
 ### & DEVELOPER
 
 </div>
